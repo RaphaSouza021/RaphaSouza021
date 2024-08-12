@@ -1,6 +1,6 @@
 ### Boas Vindas ao meu perfil 💙
 
-Me nome é Raphael Gonçalves
+Meu nome é Raphael Gonçalves
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem de JavaScript
